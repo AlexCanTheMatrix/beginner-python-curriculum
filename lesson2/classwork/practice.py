@@ -1,6 +1,8 @@
 # Problem 1
 # Ask the user for their age.
 # Calculate and print how many decades old they are, rounded to the nearest whole number.
+
+# The intended solution is to use floor division, not the rounding function
 age = input("How old are you")
 print("You are ", round(int(age)/10), " decades old")
 
