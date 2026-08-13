@@ -27,4 +27,4 @@ print("You cold do",int(pp)*7, "in a week" )
 # Use a for loop to print the square of each number from 1 to 6.
 # (Example: 1*1=1, 2*2=4, etc.)
 for h in range(1,7):
-    print(h*h)
+    print(h*h
